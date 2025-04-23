@@ -1,0 +1,12 @@
+# Ignore these folders
+model/
+DL_work/
+managed_components/
+build/
+.devcontainer/
+.vscode/
+.vscode/
+*.espdl
+*.log
+*.md
+app_main.cpp
