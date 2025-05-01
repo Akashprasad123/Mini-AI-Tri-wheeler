@@ -16,7 +16,7 @@ The system is designed to be fully **edge-deployed** — no external server, no 
 
 ---
 
-## 🧠 How It Works (Briefly)
+## 🧠 How It Works
 
 - The model was trained on custom driving data to predict **delta changes** (Δsteering, Δspeed) based on recent sensor history.
 - It runs entirely on the ESP32-S3, using optimized inference with **ESP-DL** and quantization via **ESP-PPQ**.
